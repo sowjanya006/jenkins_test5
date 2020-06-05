@@ -1,0 +1,14 @@
+<mod ver="21" opt="7" id="f8c5ebdb-9b56-474c-94ac-3107510eea48" lid="5" md5="2b0794ce67a3fbb363dd7ace794420b4">
+ <funcs>
+  <func id="2" nam="add" scp="2" src="1" srcid="1" tmd="0x2000000000000000" decl="int add()" md5="6e48cc4cc69c789cf8e1e5677eb1b92d">
+   <coverage c0="1" c1="1" c2="1" mcc="0" mcdc="1"/>
+   <metrics mccabe="1" depth="1" calls="0" stmts="2"/>
+  </func>
+ </funcs>
+ <types/>
+ <vars>
+  <var id="2" nam="a" tc="10" tmd="0x800000000000000" src="1" scp="2"/>
+  <var id="3" nam="b" tc="10" tmd="0x800000000000000" src="1" scp="2"/>
+  <var id="4" nam="c" tc="10" tmd="0x800000000000000" src="1" scp="2"/>
+ </vars>
+</mod>

@@ -1,0 +1,46 @@
+$testobject {
+
+	$testcase 1 {
+		$name ""
+		$uuid "c2e802c5-291f-4cba-b403-49141808e41c"
+
+		$teststep 1.1 {
+			$name ""
+			$uuid "74b4b640-71db-4dfb-a6b2-6297a98595cc"
+			$inputs {
+				a = 5
+				b = 6
+				c = 11
+			}
+			$outputs {
+				c = 11
+				return 11
+			}
+			$calltrace {
+				*** Ignore Call Trace ***
+			}
+		}
+	}
+
+	$testcase 2 {
+		$name ""
+		$uuid "1cc00368-c9b4-4401-a0aa-990ea24b4448"
+
+		$teststep 2.1 {
+			$name ""
+			$uuid "1584b5d9-9e0a-4503-a624-42451f7c92c5"
+			$inputs {
+				a = 2
+				b = 3
+				c = 5
+			}
+			$outputs {
+				c = 5
+				return 5
+			}
+			$calltrace {
+				*** Ignore Call Trace ***
+			}
+		}
+	}
+}
