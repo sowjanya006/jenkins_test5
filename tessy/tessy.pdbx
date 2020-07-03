@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project
     backup="$(PROJECTROOT)\tessy\backup"
-    configuration=""
+    configuration="$(PROJECTROOT)\tessy\config\configuration.xml"
     database="$(PROJECTROOT)\tessy"
-    defaultEnvironment=""
+    defaultEnvironment="GNU GCC Eclipse CDT (Default)"
     description=""
     enableSourceRoot="false"
     identifier="0d8a413b-435f-43bc-9a5e-be2ca28d997a"
     location="$(PROJECTROOT)\tessy"
-    name="jenkins_test5"
+    name="jenkins_test2"
     projectVersion="5"
     tessyVersion="4.2.8"
     isTemplate="false"
