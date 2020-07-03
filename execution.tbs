@@ -8,7 +8,7 @@
                 <option key="run" value="true"/>
                 <option key="createNewTestRun" value="false"/>
                 <option key="retryAbortedExecution" value="false"/>
-                <option key="instrumentationType" value="NONE"/>
+                <option key="instrumentationType" value="TESTOBJECT_ONLY"/>
                 <option key="defaultCoverage" value="true"/>
                 <option key="defaultCoveragePerTestObject" value="false"/>
                 <option key="abortOnMissingStubCode" value="true"/>
